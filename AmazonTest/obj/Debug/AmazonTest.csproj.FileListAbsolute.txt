@@ -1,0 +1,11 @@
+C:\Users\KREG\source\repos\AmazonTest\AmazonTest\bin\Debug\AmazonTest.exe.config
+C:\Users\KREG\source\repos\AmazonTest\AmazonTest\bin\Debug\AmazonTest.exe
+C:\Users\KREG\source\repos\AmazonTest\AmazonTest\bin\Debug\AmazonTest.pdb
+C:\Users\KREG\source\repos\AmazonTest\AmazonTest\bin\Debug\Nager.AmazonProductAdvertising.dll
+C:\Users\KREG\source\repos\AmazonTest\AmazonTest\bin\Debug\Nager.ArticleNumber.dll
+C:\Users\KREG\source\repos\AmazonTest\AmazonTest\bin\Debug\Nager.AmazonProductAdvertising.pdb
+C:\Users\KREG\source\repos\AmazonTest\AmazonTest\obj\Debug\AmazonTest.csprojAssemblyReference.cache
+C:\Users\KREG\source\repos\AmazonTest\AmazonTest\obj\Debug\AmazonTest.csproj.CoreCompileInputs.cache
+C:\Users\KREG\source\repos\AmazonTest\AmazonTest\obj\Debug\AmazonTest.csproj.CopyComplete
+C:\Users\KREG\source\repos\AmazonTest\AmazonTest\obj\Debug\AmazonTest.exe
+C:\Users\KREG\source\repos\AmazonTest\AmazonTest\obj\Debug\AmazonTest.pdb
