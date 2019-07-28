@@ -22,14 +22,13 @@ namespace AmazonTest
 
             //Create cart and add items to it
             var items = new List<AmazonCartItem>();
-            items.Add(new AmazonCartItem("B00MH4QM1S"));
-            items.Add(new AmazonCartItem("B01EUHFAC6"));
+            items.Add(new AmazonCartItem("item code here"));
             var cart = wrapper.CartCreate(items);
 
             //Debuging
             /*wrapper.XmlReceived += (xml) => { System.Diagnostics.Debug.WriteLine(xml); };
             wrapper.ErrorReceived += (errorResonse) => { System.Diagnostics.Debug.WriteLine(errorResonse.Error.Message); };
-            var errors = wrapper.Lookup(new string[] { "B00OQVZDJM", "B00ZV9RDKK" });*/
+            var errors = wrapper.Lookup(new string[] { "item code here" });*/
         }
     }
 }
